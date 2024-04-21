@@ -1,0 +1,9 @@
+{
+  "mariadb": {
+    "user": "example-user",
+    "password": "my_cool_secret",
+    "database": "exmple-database",
+    "root_password": "my-secret-pw",
+    "port": 3306
+  }
+}
